@@ -27,11 +27,11 @@
 
   <h3>🌐 Connect with me:</h3>
       <p>
-        <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+        <a href="https://www.linkedin.com/in/ahmedmagdi03/" target="_blank">
           <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40px" alt="LinkedIn"/>
         </a>
-        <a href="https://github.com/yourgithub" target="_blank">
-          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40px" alt="GitHub"/>
+        <a href="https://www.kaggle.com/ahmedmagdi23" target="_blank">
+          <img src="https://camo.githubusercontent.com/2744b5561f655e98adaf252bf06b32c255126f079e23b18aef259943f6401683/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6167676c652e737667" width="40px" alt="GitHub"/>
         </a>
       </p>
     </td>
